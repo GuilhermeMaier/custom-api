@@ -1,12 +1,22 @@
-## Installation
+## Primeiro você deve instalar o yarn.
 
 ```bash
-$ yarn install
+npm install --global yarn
 ```
 
-## Running the app
+```bash
+yarn install
+```
+
+## Então você deve rodar o servidor
 
 ```bash
 # watch mode
-$ yarn run start:dev
+yarn run start:dev
+```
+
+## Após isso abra o navegador e vá ao endereço
+
+```bash
+http://localhost:8000/docs
 ```
